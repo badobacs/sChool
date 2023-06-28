@@ -1,0 +1,16 @@
+C:\Users\janos\source\repos\House_Draw\bin\Debug\net5.0\House_Draw.exe
+C:\Users\janos\source\repos\House_Draw\bin\Debug\net5.0\House_Draw.deps.json
+C:\Users\janos\source\repos\House_Draw\bin\Debug\net5.0\House_Draw.runtimeconfig.json
+C:\Users\janos\source\repos\House_Draw\bin\Debug\net5.0\House_Draw.runtimeconfig.dev.json
+C:\Users\janos\source\repos\House_Draw\bin\Debug\net5.0\House_Draw.dll
+C:\Users\janos\source\repos\House_Draw\bin\Debug\net5.0\ref\House_Draw.dll
+C:\Users\janos\source\repos\House_Draw\bin\Debug\net5.0\House_Draw.pdb
+C:\Users\janos\source\repos\House_Draw\obj\Debug\net5.0\House_Draw.csprojAssemblyReference.cache
+C:\Users\janos\source\repos\House_Draw\obj\Debug\net5.0\House_Draw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janos\source\repos\House_Draw\obj\Debug\net5.0\House_Draw.AssemblyInfoInputs.cache
+C:\Users\janos\source\repos\House_Draw\obj\Debug\net5.0\House_Draw.AssemblyInfo.cs
+C:\Users\janos\source\repos\House_Draw\obj\Debug\net5.0\House_Draw.csproj.CoreCompileInputs.cache
+C:\Users\janos\source\repos\House_Draw\obj\Debug\net5.0\House_Draw.dll
+C:\Users\janos\source\repos\House_Draw\obj\Debug\net5.0\ref\House_Draw.dll
+C:\Users\janos\source\repos\House_Draw\obj\Debug\net5.0\House_Draw.pdb
+C:\Users\janos\source\repos\House_Draw\obj\Debug\net5.0\House_Draw.genruntimeconfig.cache
