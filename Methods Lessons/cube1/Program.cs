@@ -6,19 +6,23 @@ namespace MyApplication
     {
         static int MyMethod(int x, int y)
         {
-            Console.WriteLine("Ird be az első számot");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("Ird be a magasságot: ");
             x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Ird be a második számot ");
+            Console.WriteLine("Ird be a szélességet: ");
             y = Convert.ToInt32(Console.ReadLine());
-            if (x > y)
+            Console.WriteLine(("\n****"));
+            for (int i = 0; i <= x; i++)
             {
-                return x * y;
+                Console.Write("                        ");
+                for (int q = 0; q <= y; q++)
+                {
+
+                    Console.Write("H");
+                }
+                Console.WriteLine();
             }
-            else
-            {
-                return x + y;
-            }
-            
+
         }
 
         static void Main(string[] args)
