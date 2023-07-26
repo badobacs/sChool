@@ -1,0 +1,16 @@
+C:\Users\janos\source\repos\cube1\obj\Debug\net5.0\cube1.csprojAssemblyReference.cache
+C:\Users\janos\source\repos\cube1\obj\Debug\net5.0\cube1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janos\source\repos\cube1\obj\Debug\net5.0\cube1.AssemblyInfoInputs.cache
+C:\Users\janos\source\repos\cube1\obj\Debug\net5.0\cube1.AssemblyInfo.cs
+C:\Users\janos\source\repos\cube1\obj\Debug\net5.0\cube1.csproj.CoreCompileInputs.cache
+C:\Users\janos\source\repos\cube1\bin\Debug\net5.0\cube1.exe
+C:\Users\janos\source\repos\cube1\bin\Debug\net5.0\cube1.deps.json
+C:\Users\janos\source\repos\cube1\bin\Debug\net5.0\cube1.runtimeconfig.json
+C:\Users\janos\source\repos\cube1\bin\Debug\net5.0\cube1.runtimeconfig.dev.json
+C:\Users\janos\source\repos\cube1\bin\Debug\net5.0\cube1.dll
+C:\Users\janos\source\repos\cube1\bin\Debug\net5.0\ref\cube1.dll
+C:\Users\janos\source\repos\cube1\bin\Debug\net5.0\cube1.pdb
+C:\Users\janos\source\repos\cube1\obj\Debug\net5.0\cube1.dll
+C:\Users\janos\source\repos\cube1\obj\Debug\net5.0\ref\cube1.dll
+C:\Users\janos\source\repos\cube1\obj\Debug\net5.0\cube1.pdb
+C:\Users\janos\source\repos\cube1\obj\Debug\net5.0\cube1.genruntimeconfig.cache
