@@ -4,31 +4,32 @@ namespace MyApplication
 {
     class Program
     {
-        static int MyMethod(int x, int y)
+        static void Cube(string[] args)
         {
+
+
             Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("Ird be a magasságot: ");
-            x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Ird be a szélességet: ");
-            y = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Ird be a kocka oldalának hosszát: ");
+            int a = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Ird be a pozíció távolságát: ");
+            int b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(("\n****"));
-            for (int i = 0; i <= x; i++)
+            for (int i = 0; i < a; i++)
             {
                 Console.Write("                        ");
-                for (int q = 0; q <= y; q++)
+                for (int j = 0; j < a; j++)
                 {
 
-                    Console.Write("H");
+                    Console.Write("[]");
                 }
                 Console.WriteLine();
             }
-
         }
-
         static void Main(string[] args)
         {
-
-            Console.WriteLine(MyMethod(2 ,3));
+            Cube();
         }
+
+
     }
 }
