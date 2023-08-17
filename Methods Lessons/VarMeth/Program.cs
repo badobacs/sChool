@@ -67,7 +67,7 @@ namespace VarMeth
         static void RsTriangle()
         {
             
-            Console.WriteLine("Enter the length of the side of the Sandglass:");
+            Console.WriteLine("Enter the length of the side of the half of Sandglass:");
             int n = Convert.ToInt32(Console.ReadLine());
             //int k = 5;
 
@@ -75,7 +75,7 @@ namespace VarMeth
             {
                 for (int j = 1; j <= i; j++)
                 {
-                    Console.Write(" ");
+                    Console.Write("  ");
                 }
                 for (int j = i; j <= n; j++)
                 {
@@ -88,9 +88,58 @@ namespace VarMeth
             {
                 for (int j = i; j <= n; j++)
                 {
-                    Console.Write(" ");
+                    Console.Write("  ");
                 }
                 for (int j = 1; j <= i; j++)
+                {
+                    Console.Write("* ");
+                }
+                Console.WriteLine();
+
+            }
+        }
+        static void Hill()
+        {
+            
+
+
+            Console.WriteLine("Enter the length of the side of the Hill:");
+            int n = Convert.ToInt32(Console.ReadLine());
+            //int k = 5;
+            for (int i = 1; i <= n; i++)
+            {
+                for (int j = i; j <= n; j++)
+                {
+                    Console.Write("  ");
+                }
+                for (int j = 1; j < i; j++)
+                {
+                    Console.Write("* ");
+                }
+                for (int j = 1; j <= i; j++)
+                {
+                    Console.Write("* ");
+                }
+                Console.WriteLine();
+
+            }
+        }
+        static void RewHill()
+        {
+            Console.WriteLine("Enter the length of the side of the Reverse Hill:");
+            int n = Convert.ToInt32(Console.ReadLine());
+            //int k = 5;
+            for (int i = 1; i <= n; i++)
+            {
+                for (int j = 1; j <= i; j++)
+                {
+                    Console.Write("  ");
+                }
+                for (int j = i; j < n; j++)
+                {
+                    Console.Write("* ");
+                }
+                for (int j = i; j <= n; j++)
                 {
                     Console.Write("* ");
                 }
@@ -105,7 +154,9 @@ namespace VarMeth
             Cube();
             Triangle();
             DecreasingTriangle();
+            Hill();
             RsTriangle();
+            RewHill();
         }
     }
 }
