@@ -1,0 +1,16 @@
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\bin\Debug\net5.0\VarMeth.exe
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\bin\Debug\net5.0\VarMeth.deps.json
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\bin\Debug\net5.0\VarMeth.runtimeconfig.json
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\bin\Debug\net5.0\VarMeth.runtimeconfig.dev.json
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\bin\Debug\net5.0\VarMeth.dll
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\bin\Debug\net5.0\ref\VarMeth.dll
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\bin\Debug\net5.0\VarMeth.pdb
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\obj\Debug\net5.0\VarMeth.csprojAssemblyReference.cache
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\obj\Debug\net5.0\VarMeth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\obj\Debug\net5.0\VarMeth.AssemblyInfoInputs.cache
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\obj\Debug\net5.0\VarMeth.AssemblyInfo.cs
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\obj\Debug\net5.0\VarMeth.csproj.CoreCompileInputs.cache
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\obj\Debug\net5.0\VarMeth.dll
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\obj\Debug\net5.0\ref\VarMeth.dll
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\obj\Debug\net5.0\VarMeth.pdb
+D:\Fejlesztes\Repos\C\Methods Lessons\VarMeth\obj\Debug\net5.0\VarMeth.genruntimeconfig.cache
