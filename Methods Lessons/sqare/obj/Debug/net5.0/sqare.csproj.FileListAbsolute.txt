@@ -1,0 +1,16 @@
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\bin\Debug\net5.0\sqare.exe
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\bin\Debug\net5.0\sqare.deps.json
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\bin\Debug\net5.0\sqare.runtimeconfig.json
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\bin\Debug\net5.0\sqare.runtimeconfig.dev.json
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\bin\Debug\net5.0\sqare.dll
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\bin\Debug\net5.0\ref\sqare.dll
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\bin\Debug\net5.0\sqare.pdb
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\obj\Debug\net5.0\sqare.csprojAssemblyReference.cache
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\obj\Debug\net5.0\sqare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\obj\Debug\net5.0\sqare.AssemblyInfoInputs.cache
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\obj\Debug\net5.0\sqare.AssemblyInfo.cs
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\obj\Debug\net5.0\sqare.csproj.CoreCompileInputs.cache
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\obj\Debug\net5.0\sqare.dll
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\obj\Debug\net5.0\ref\sqare.dll
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\obj\Debug\net5.0\sqare.pdb
+D:\Fejlesztes\Repos\C\Methods Lessons\sqare\obj\Debug\net5.0\sqare.genruntimeconfig.cache
