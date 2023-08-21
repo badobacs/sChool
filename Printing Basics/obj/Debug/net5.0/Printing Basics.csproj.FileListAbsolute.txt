@@ -1,0 +1,16 @@
+D:\Fejlesztes\Repos\C\Printing Basics\obj\Debug\net5.0\Printing Basics.csprojAssemblyReference.cache
+D:\Fejlesztes\Repos\C\Printing Basics\obj\Debug\net5.0\Printing Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fejlesztes\Repos\C\Printing Basics\obj\Debug\net5.0\Printing Basics.AssemblyInfoInputs.cache
+D:\Fejlesztes\Repos\C\Printing Basics\obj\Debug\net5.0\Printing Basics.AssemblyInfo.cs
+D:\Fejlesztes\Repos\C\Printing Basics\obj\Debug\net5.0\Printing Basics.csproj.CoreCompileInputs.cache
+D:\Fejlesztes\Repos\C\Printing Basics\bin\Debug\net5.0\Printing Basics.exe
+D:\Fejlesztes\Repos\C\Printing Basics\bin\Debug\net5.0\Printing Basics.deps.json
+D:\Fejlesztes\Repos\C\Printing Basics\bin\Debug\net5.0\Printing Basics.runtimeconfig.json
+D:\Fejlesztes\Repos\C\Printing Basics\bin\Debug\net5.0\Printing Basics.runtimeconfig.dev.json
+D:\Fejlesztes\Repos\C\Printing Basics\bin\Debug\net5.0\Printing Basics.dll
+D:\Fejlesztes\Repos\C\Printing Basics\bin\Debug\net5.0\ref\Printing Basics.dll
+D:\Fejlesztes\Repos\C\Printing Basics\bin\Debug\net5.0\Printing Basics.pdb
+D:\Fejlesztes\Repos\C\Printing Basics\obj\Debug\net5.0\Printing Basics.dll
+D:\Fejlesztes\Repos\C\Printing Basics\obj\Debug\net5.0\ref\Printing Basics.dll
+D:\Fejlesztes\Repos\C\Printing Basics\obj\Debug\net5.0\Printing Basics.pdb
+D:\Fejlesztes\Repos\C\Printing Basics\obj\Debug\net5.0\Printing Basics.genruntimeconfig.cache
