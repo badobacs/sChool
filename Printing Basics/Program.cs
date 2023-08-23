@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.ExceptionServices;
 
 namespace Printing_Basics
 {
@@ -151,15 +152,96 @@ namespace Printing_Basics
             }
 
         }
+        static void HollowHill()
+        {
+            int n = 5;
+            for (int i = 1; i <=n; i++)
+            {
+                //First triangle
+                for (int j = i; j <=n; j++)
+                {
+                    Console.Write("  ");
+                }
+                //Secound triangle
+                for (int j = 1; j < i; j++)
+                {
+                    if (i== n || j== 1)
+                    {
+                        Console.Write("* ");
+                    }
+                    else
+                    {
+                        Console.Write("  ");
+                    }
+                }
+                //Third triangle
+                for (int j = 1; j <= i; j++)
+                {
+                    if (i == n || j == i )
+                    {
+                        Console.Write("* ");
+                    }
+                    else
+                    {
+                        Console.Write("  ");
+                    }
+                }
+                Console.WriteLine();
+            }
+
+        }
+        static void Diamant()
+        {
+            int n = 5;
+
+            for (int i = 1; i < n; i++)
+            {
+
+                for (int j = i; j <= n; j++)
+                {
+                    Console.Write("  ");
+                }
+                for (int j = 1; j < i; j++)
+                {
+                    Console.Write("* ");
+                }
+                for (int j = 1; j <= i; j++)
+                {
+                    Console.Write("* ");
+                }
+                Console.WriteLine();
+            }
+            for (int i = 1; i <=n; i++)
+            {
+
+                for (int j = 1; j < i; j++)
+                {
+                    Console.Write("  ");
+                }
+                for (int j = i; j < n; j++)
+                {
+                    Console.Write("* ");
+                }
+                for (int j = i; j <=n; j++)
+                {
+                    Console.Write("* ");
+                }
+                Console.WriteLine();
+            }
+        }
+
+
 
         static void Main(string[] args)
         {
-            Method_II();
-            MethodPlus();
-            MethodX();
-            HollowSquare();
-            HollowTriangle();
-            HollowTriangleII();
+            //Method_II();
+            //MethodPlus();
+            //MethodX();
+            //HollowSquare();
+            //HollowTriangle();
+            //HollowTriangleII();
+            //HollowHill();
+            Diamant();
 
         }
     }
