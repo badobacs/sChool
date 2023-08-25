@@ -1,0 +1,16 @@
+D:\Fejlesztes\Repos\C\Visible Diamant\bin\Debug\net5.0\Visible Diamant.exe
+D:\Fejlesztes\Repos\C\Visible Diamant\bin\Debug\net5.0\Visible Diamant.deps.json
+D:\Fejlesztes\Repos\C\Visible Diamant\bin\Debug\net5.0\Visible Diamant.runtimeconfig.json
+D:\Fejlesztes\Repos\C\Visible Diamant\bin\Debug\net5.0\Visible Diamant.runtimeconfig.dev.json
+D:\Fejlesztes\Repos\C\Visible Diamant\bin\Debug\net5.0\Visible Diamant.dll
+D:\Fejlesztes\Repos\C\Visible Diamant\bin\Debug\net5.0\ref\Visible Diamant.dll
+D:\Fejlesztes\Repos\C\Visible Diamant\bin\Debug\net5.0\Visible Diamant.pdb
+D:\Fejlesztes\Repos\C\Visible Diamant\obj\Debug\net5.0\Visible Diamant.csprojAssemblyReference.cache
+D:\Fejlesztes\Repos\C\Visible Diamant\obj\Debug\net5.0\Visible Diamant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fejlesztes\Repos\C\Visible Diamant\obj\Debug\net5.0\Visible Diamant.AssemblyInfoInputs.cache
+D:\Fejlesztes\Repos\C\Visible Diamant\obj\Debug\net5.0\Visible Diamant.AssemblyInfo.cs
+D:\Fejlesztes\Repos\C\Visible Diamant\obj\Debug\net5.0\Visible Diamant.csproj.CoreCompileInputs.cache
+D:\Fejlesztes\Repos\C\Visible Diamant\obj\Debug\net5.0\Visible Diamant.dll
+D:\Fejlesztes\Repos\C\Visible Diamant\obj\Debug\net5.0\ref\Visible Diamant.dll
+D:\Fejlesztes\Repos\C\Visible Diamant\obj\Debug\net5.0\Visible Diamant.pdb
+D:\Fejlesztes\Repos\C\Visible Diamant\obj\Debug\net5.0\Visible Diamant.genruntimeconfig.cache
