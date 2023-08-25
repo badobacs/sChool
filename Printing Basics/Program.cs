@@ -193,38 +193,67 @@ namespace Printing_Basics
         static void Diamant()
         {
             int n = 5;
-
             for (int i = 1; i < n; i++)
             {
-
-                for (int j = i; j <= n; j++)
+                for (int j = i+1; j <=n; j++)
                 {
                     Console.Write("  ");
                 }
                 for (int j = 1; j < i; j++)
                 {
-                    Console.Write("* ");
+                    if (j==1)
+                    {
+
+                        Console.Write("* ");
+                    }
+                    else
+                    {
+                        Console.Write("  ");
+                    }
                 }
-                for (int j = 1; j <= i; j++)
+                for (int j = 1; j <=i; j++)
                 {
-                    Console.Write("* ");
+                    if (j==i)
+                    {
+
+                        Console.Write("* ");
+                    }
+                    else
+                    {
+                        Console.Write("  ");
+                    }
                 }
                 Console.WriteLine();
             }
             for (int i = 1; i <=n; i++)
             {
-
                 for (int j = 1; j < i; j++)
                 {
                     Console.Write("  ");
                 }
                 for (int j = i; j < n; j++)
                 {
-                    Console.Write("* ");
+                    if (j==i)
+                    {
+
+                        Console.Write("* ");
+                    }
+                    else
+                    {
+                        Console.Write("  ");
+                    }
                 }
                 for (int j = i; j <=n; j++)
                 {
-                    Console.Write("* ");
+                    if (j == n)
+                    {
+
+                        Console.Write("* ");
+                    }
+                    else
+                    {
+                        Console.Write("  ");
+                    }
                 }
                 Console.WriteLine();
             }
