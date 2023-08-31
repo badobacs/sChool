@@ -10,6 +10,12 @@ namespace Visible_Diamant
             int n = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("A gyémánt oldal távolság:");
             int k = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("A gyémánt oldal távolsága a plafontol:");
+            int m = Convert.ToInt32(Console.ReadLine());
+            for (int i = 1; i < m; i++)
+            {
+                Console.WriteLine();
+            }
             for (int i = 1; i < n; i++)
             {
                 for (int j = i - k+1; j <= n; j++)
